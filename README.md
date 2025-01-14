@@ -1,1 +1,4 @@
 # QuizBot
+
+##Developed using NodeJS
+##LLM API - OpenRouter API
